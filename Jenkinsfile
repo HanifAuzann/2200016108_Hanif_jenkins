@@ -8,7 +8,7 @@
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/username/node-ci-cd.git'
+                git branch: 'main', url: 'https://github.com/HanifAuzann/2200016108_Hanif_jenkins.git'
             }
         }
 
